@@ -5,17 +5,14 @@
 
         <author>
 		<name>Giorgio Grisetti</name>
-		<email>grisetti@informatik.uni-freiburg.de</email>
 		<url>http://www.informatik.uni-freiburg.de/~grisetti</url>
 	</author>
         <author>
 		<name>Cyrill Stachniss</name>
-		<email>stachnis@informatik.uni-freiburg.de</email>
 		<url>http://www.informatik.uni-freiburg.de/~stachnis</url>
 	</author>
         <author>
 		<name>Wolfram Burgard</name>
-		<email>burgard@informatik.uni-freiburg.de</email>
 		<url>http://www.informatik.uni-freiburg.de/~burgard</url>
 	</author>
 
@@ -74,6 +71,11 @@
 		<thumbnailurl>http://www.informatik.uni-freiburg.de/~stachnis/research/rbpfmapper/gmapper-web/MIT/sMIT_Infinite_Corridor_2002_09_11_same_floor.gfs.png</thumbnailurl>
 		<description>Map of the MIT Killian Court</description>
 	</image>
+
+	<documentation> 
+		<title>Quick Install-Guide</title>
+		<url>http://www.informatik.uni-freiburg.de/~stachnis/research/rbpfmapper/install.html</url>
+	</documentation>
 
 	<paper>
 		<title>Improved Techniques for Grid Mapping with Rao-Blackwellized Particle Filters</title>
