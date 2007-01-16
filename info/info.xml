@@ -103,7 +103,7 @@
 	<furthermore>
 	The SLAM approach is available as a library and
 	can be easily used as a black box. Making changes to the
-	algorithm itself, however, requires quite some C++ experience...
+	algorithm itself, however, requires quite some C++ experience.
 	</furthermore>
 
 </project>
