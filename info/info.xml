@@ -48,7 +48,9 @@
         <requirement>
 	CARMEN (latest version)
 	</requirement>
-
+	<requirement>
+	  Quick Install-Guide using bash: ./configure; . ./setlibpath; make;
+	</requirement>
 	<map>grid maps</map>
 
 	<input>The approach takes raw laser range data and
@@ -76,10 +78,6 @@
 		<thumbnailurl>http://www.informatik.uni-freiburg.de/~stachnis/research/rbpfmapper/gmapper-web/MIT/sMIT_Infinite_Corridor_2002_09_11_same_floor.gfs.png</thumbnailurl>
 		<description>Map of the MIT Killian Court</description>
 	</image>
-
-	<documentation> 
-		<title>Quick Install-Guide using bash: ./configure; . ./setlibpath; make;</title>
-	</documentation>
 
 	<paper>
 		<title>Improved Techniques for Grid Mapping with Rao-Blackwellized Particle Filters</title>
