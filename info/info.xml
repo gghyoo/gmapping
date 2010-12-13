@@ -79,7 +79,7 @@
 
 	<documentation> 
 		<title>Quick Install-Guide</title>
-		<url>http://www.informatik.uni-freiburg.de/~stachnis/research/rbpfmapper/install.html</url>
+		<url>using bash: ./configure; . ./setlibpath; make;</url>
 	</documentation>
 
 	<paper>
