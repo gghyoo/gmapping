@@ -78,8 +78,7 @@
 	</image>
 
 	<documentation> 
-		<title>Quick Install-Guide</title>
-		<url>using bash: ./configure; . ./setlibpath; make;</url>
+		<title>Quick Install-Guide using bash: ./configure; . ./setlibpath; make;</title>
 	</documentation>
 
 	<paper>
