@@ -39,7 +39,7 @@
 	 prediction step of the filter. Furthermore, we apply an
 	 approach to selectively carry out re-sampling operations
 	 which seriously reduces the problem of particle
-	 depletion. 	
+	 depletion. <br>
 	</description>
 
         <requirement>
@@ -107,12 +107,15 @@
 	<furthermore>
 	The SLAM approach is available as a library and
 	can be easily used as a black box. Making changes to the
-	algorithm itself, however, requires quite some C++ experience.
+	algorithm itself, however, requires quite some C++ experience.<br>
+
 	</furthermore>
 	 
 	<links>
 	  <title>Belorussian translation of this page (external link!).</title>
 	  <url>http://webhostingrating.com/libs/openslam-gmapping-be</url>
+	  <title>Polish translation of this page (external link!).</title>
+	  <url>http://autoersatzteile.de/blog/gmapping</url>
 	</links>
 
 </project>
