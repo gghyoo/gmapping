@@ -39,7 +39,7 @@
 	 prediction step of the filter. Furthermore, we apply an
 	 approach to selectively carry out re-sampling operations
 	 which seriously reduces the problem of particle
-	 depletion. <br>
+	 depletion. 
 	</description>
 
         <requirement>
