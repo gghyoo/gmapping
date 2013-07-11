@@ -82,9 +82,9 @@
 	<paper>
 		<title>Improved Techniques for Grid Mapping with Rao-Blackwellized Particle Filters</title>
 		<authorlist>Giorgio Grisetti, Cyrill Stachniss, and Wolfram Burgard</authorlist>
-		<publishedin>IEEE Transactions on Robotics</publishedin>
-		<year>2006</year>
-		<url>http://www.informatik.uni-freiburg.de/~stachnis/pdf/grisetti06tro.pdf</url>
+		<publishedin>IEEE Transactions on Robotics, Volume 23, pages 34-46</publishedin>
+		<year>2007</year>
+		<url>http://www.informatik.uni-freiburg.de/~stachnis/pdf/grisetti07tro.pdf</url>
 	</paper>
 	<paper>
 		<title>Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling</title>
